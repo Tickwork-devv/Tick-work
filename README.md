@@ -6,12 +6,12 @@
 ranged positions, cross-tick swaps, fee accrual — as a dependency-free engine,
 embedded live in an interactive site.
 
-[![Website](https://img.shields.io/badge/site-tickwork.xyz-5EE0C2?style=flat-square)](https://tickwork.xyz)
+[![Website](https://img.shields.io/badge/site-tick--work.com-5EE0C2?style=flat-square)](https://tick-work.com)
 [![Tests](https://img.shields.io/badge/tests-14%2F14%20passing-5EE0C2?style=flat-square)](engine/test/engine.test.js)
 [![Dependencies](https://img.shields.io/badge/dependencies-0-5EE0C2?style=flat-square)](engine/package.json)
 [![License](https://img.shields.io/badge/license-MIT-8B9BB8?style=flat-square)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/javascript-ES2022-F5B451?style=flat-square)](engine/src)
-[![Runs in browser](https://img.shields.io/badge/runs-in%20your%20browser-F5B451?style=flat-square)](https://tickwork.xyz)
+[![Runs in browser](https://img.shields.io/badge/runs-in%20your%20browser-F5B451?style=flat-square)](https://tick-work.com)
 
 `x·y=k · concentrated liquidity · tick-crossing swaps · fee accrual · 14/14 tests · zero deps · reference implementation`
 
